@@ -1,0 +1,20 @@
+{
+      "name": "concat-elements",
+      "version": "1.0.1",
+      "description": "alternative to concat elements",
+      "main": "index.js",
+      "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "keywords": [
+            "react",
+            "node",
+            "array",
+            "concat",
+            "join",
+            "array-elements",
+            "iterator"
+      ],
+      "author": "iddge7",
+      "license": "ISC"
+}
